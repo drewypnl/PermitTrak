@@ -17,7 +17,7 @@ namespace PermitTrak
         public static string disLevel;
     }
 
-    //Public MDI class to reference contrals on MDI form
+    //Public MDI class to reference contrals on MDI form test
     public class refPermitTrakMDI
     {
         public static frmPermitTrakParent mdi;
